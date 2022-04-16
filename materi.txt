@@ -1,0 +1,16 @@
+CSS Display
+- Display none vs Visibility hidden;
+- Display block
+- Display Inline
+- Display Inline-block
+
+CSS Position
+- Position : Static
+- Position : Relative
+- Position : Absolute
+- position : Fixed
+- Position : Sticky 
+
+Desain Website Interaktif
+- Mengatur viewport
+- Menggunakan Persentase Untuk Menentukan Nilai Lebar Suatu Element
